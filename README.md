@@ -1,72 +1,69 @@
-# Random Noise Syllabus
+# Random Noise
 
-## Cours 1 – 5 (plutôt Vytas)  
-**P5.js (+ ChatGPT; + ML5.js) – Bases de programmation en JS**  
-+ Exercices pour évaluer les compétences  
-
-## Cours 5 – 10 (plutôt Cyrus)  
-**Intégration Web (API + Github)**  
-HTML + CSS  
-+ Projet final  
-
-## Cours 11  
-**Présentation finale**  
+## Cours transversal HEAD – Genève  
+**Vendredis, 14:30 – 17:30**  
 
 ---
 
-# SYLLABUS DÉTAILLÉ
+## STRUCTURE GÉNÉRALE:
 
-## #1 – INTRODUCTION (Vytas + Cyrus)  
-### Théorie :  
-- Tour de table  
+### Cours 1 – 5 : Introduction à p5.js et JavaScript  
+Lors de ces cinq premières sessions, vous découvrirez les bases de la programmation en JavaScript à travers la bibliothèque p5.js. Après avoir créé un compte sur l'éditeur en ligne de p5.js, vous apprendrez à concevoir des expériences interactives et ludiques tout en assimilant les concepts fondamentaux du langage. Le cinquième cours aboutira à la réalisation d’un projet intermédiaire : un sketch interactif qui sera présenté sur le futur site du Pool Numérique.
+
+### Cours 6 – 10 : Intégration Web et Déploiement  
+Dans la seconde partie du cours, vous explorerez l’intégration de p5.js dans un environnement web plus large. Vous apprendrez à manipuler des données dynamiques via des API, à intégrer vos sketchs p5.js dans des interfaces enrichies grâce à HTML5 et CSS3, et à utiliser Git et GitHub pour versionner et déployer gratuitement vos projets en ligne. Cette approche vous permettra d'acquérir des compétences essentielles pour la création et la publication d’interfaces interactives sur le web.
+
+---
+
+## STRUCTURE DÉTAILLÉE:
+
+### Cours #1 – Introduction (Vytas + Cyrus)  
+- **Tour de table**  
 - Introduction (code créatif : différents exemples – faire une présentation)  
-### Pratique :  
-- `.random()` / `.randomNoise()`  
+- `ofRandom()`  
 - Workflow complet (p5.js —> export –> Github)  
 
-## #2 – p5.js (Vytas)  
-### Théorie :  
-- Différences entre langages de programmation  
+### Cours #2 – Bases de programmation  
+**Théorie :**  
+- Différents langages de programmation  
 - Comment utiliser l'IA de manière correcte  
-### Pratique :  
-- `void Draw()`  
+
+**Points abordés :**  
 - Variables  
 - Opérateurs  
-- Exercise(s) –> ??  
+- `draw()`  
 
-## #3 – p5.js (Vytas)  
-- Opérateurs combinés (`&& ||`)  
-- Conditions (`if / else`)  
-- Image, vidéo, son, texte  
-- Exercise(s) –> ??  
+### Cours #3 – Bases de programmation  
+**Points abordés :**  
+- Opérateurs combinés  
+- Conditions  
 
-## #4 – p5.js (Vytas)  
+### Cours #4 – Bases de programmation  
+**Points abordés :**  
 - Fonctions, arguments  
-- Image, vidéo, son, texte  
+- Image, vidéo, son  
 - ML5.js  
-- Exercise(s) –> ??  
 
-## #5 – p5.js (Vytas)  
-- Classes  
-- Systèmes de particules  
-- **Exercise intermédiaire d’évaluation**  
+### Cours #5 – Bases de programmation  
+**Points abordés :**  
+- Classes, systèmes de particules  
+- **Évaluation : Exercice**  
 
-## #6 – p5.js – API (Vytas + Cyrus)  
+### Cours #6 – API  
+**Points abordés :**  
 - Intégration des API dans p5.js  
 
-## #7 – HTML – CSS – Code Editor (Cyrus)  
-- API pt. 2  
+### Cours #7 – HTML – CSS – Text Editor  
+**Points abordés :**  
 - Bases de HTML – CSS  
-- Exercise(s) –> ??  
+- API  
 
-## #8 – HTML – CSS – Github (Cyrus)  
-- Bases de HTML – CSS pt. 2  
-- Introduction à Github  
-- **Laboratoire**  
+### Cours #8 – HTML – CSS – Github  
+**Points abordés :**  
+- Bases de HTML – CSS #2  
 
-## #9 – Laboratoire (Vytas + Cyrus)  
+### Cours #9 – HTML – CSS – Github (LAB)  
 
-## #10 – Laboratoire (Vytas + Cyrus)  
+### Cours #10 – HTML – CSS – Github (LAB)  
 
-## #11 – Présentation finale (Vytas + Cyrus)  
-# random-noise-cours-transversal
+### Cours #11 – Présentation Finale  

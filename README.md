@@ -22,7 +22,7 @@ Dans la seconde partie du cours, vous explorerez l’intégration de p5.js dans 
 
 ### Cours #1 – Introduction 
 - **Tour de table**  
-- Introduction (code créatif : différents exemples – faire une présentation)  
+- Introduction
 - `ofRandom()`  
 - Workflow complet (p5.js —> export –> Github)  
 

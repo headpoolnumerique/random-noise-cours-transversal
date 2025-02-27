@@ -20,7 +20,7 @@ Dans la seconde partie du cours, vous explorerez l’intégration de p5.js dans 
 
 ## STRUCTURE DÉTAILLÉE:
 
-### Cours #1 – Introduction (Vytas + Cyrus)  
+### Cours #1 – Introduction 
 - **Tour de table**  
 - Introduction (code créatif : différents exemples – faire une présentation)  
 - `ofRandom()`  

@@ -3,6 +3,8 @@
 ## Cours transversal HEAD – Genève  
 **Vendredis, 14:30 – 17:30**  
 
+![Random Noise Cover Image](https://github.com/headpoolnumerique/random-noise-cours-transversal/blob/main/cover.png)
+
 ---
 
 ## STRUCTURE GÉNÉRALE:

@@ -25,7 +25,7 @@ Dans la seconde partie du cours, vous explorerez l’intégration de p5.js dans 
 - Introduction
 - `ofRandom()`  
 - Workflow complet (p5.js —> export –> Github)
-  (présentation)[https://docs.google.com/presentation/d/1DyAjvhiQsO4PSJXCy9wRiSl9hMRUTieXXcwb-Sp_vlI/edit?usp=sharing]
+  [présentation](https://docs.google.com/presentation/d/1DyAjvhiQsO4PSJXCy9wRiSl9hMRUTieXXcwb-Sp_vlI/edit?usp=sharing)
 
 ### Cours #2 – Bases de programmation  
 **Théorie :**  

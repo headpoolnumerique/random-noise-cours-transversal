@@ -18,13 +18,14 @@ Dans la seconde partie du cours, vous explorerez l’intégration de p5.js dans 
 
 ---
 
-## STRUCTURE DÉTAILLÉE:
+## SYLLABUS:
 
 ### Cours #1 – Introduction 
 - **Tour de table**  
 - Introduction
 - `ofRandom()`  
-- Workflow complet (p5.js —> export –> Github)  
+- Workflow complet (p5.js —> export –> Github)
+  (présentation)[https://docs.google.com/presentation/d/1DyAjvhiQsO4PSJXCy9wRiSl9hMRUTieXXcwb-Sp_vlI/edit?usp=sharing]
 
 ### Cours #2 – Bases de programmation  
 **Théorie :**  

@@ -24,7 +24,7 @@ Dans la seconde partie du cours, vous explorerez l’intégration de p5.js dans 
 - **Tour de table**  
 - Introduction  
 - Workflow complet (p5.js —> export –> Github)  
-  [— SLIDES COURS #1](https://docs.google.com/presentation/d/1DyAjvhiQsO4PSJXCy9wRiSl9hMRUTieXXcwb-Sp_vlI/edit?usp=sharing)
+  [SLIDES COURS #1](https://docs.google.com/presentation/d/1DyAjvhiQsO4PSJXCy9wRiSl9hMRUTieXXcwb-Sp_vlI/edit?usp=sharing)
 
 ### Cours #2 – Bases de programmation  
 **Théorie :**  

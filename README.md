@@ -32,9 +32,9 @@ Dans la seconde partie du cours, vous explorerez l’intégration de p5.js dans 
 - Comment utiliser l'IA de manière correcte  
 
 **Points abordés :**  
+- Formes de base
 - Variables  
 - Opérateurs  
-- `draw()`  
 
 ### Cours #3 – Bases de programmation  
 **Points abordés :**  

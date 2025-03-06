@@ -33,6 +33,7 @@ Dans la seconde partie du cours, vous explorerez l’intégration de p5.js dans 
 
 **Points abordés :**  
 - Formes de base
+- setup() – draw()
 - Variables  
 - Opérateurs  
 

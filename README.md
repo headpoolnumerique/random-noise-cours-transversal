@@ -18,6 +18,21 @@ Dans la seconde partie du cours, vous explorerez l’intégration de p5.js dans 
 
 ---
 
+## ÉVALUATION 
+
+Les étudiant·e·x·s seront évalué·e·x·s selon les critères suivants :    
+    
+Exercice intermédiaire : 30 % de la note.​     
+Projet final individuel ou en binôme : 60 % de la note.​   
+Participation : 10 % de la note (sauf absences justifiées).​   
+    
+Les restitutions s'effectueront selon le calendrier suivant :​    
+Après le cours n°5 (entre le 24 mars et le 3 avril) : un sketch p5.js à intégrer dans le futur site du Pool Numérique.​   
+Pour le cours n°11 (30 juin) : un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser des données ouvertes (open data).   
+    
+
+---
+
 ## SYLLABUS:
 
 ### Cours #1 – Introduction 

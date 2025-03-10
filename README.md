@@ -28,9 +28,10 @@ Participation : 10 % de la note (sauf absences justifiées).​
     
 Les restitutions s'effectueront selon le calendrier suivant :​    
     
-**- Exercise intermédiaire**   
-À rendre après le cours n°5 (entre le 24 mars et le 3 avril) : Un sketch p5.js démontrant les compétences acquises, à intégrer dans le futur site du Pool Numérique.    
-**- Projet final**   
+**Exercise intermédiaire**   
+À rendre après le cours n°5 (entre le 24 mars et le 3 avril) : Un sketch p5.js démontrant les compétences acquises, à intégrer dans le futur site du Pool Numérique.  
+    
+**Projet final**   
 À rendre pour le cours n°11 (30 juin) : un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser des données ouvertes (open data).   
 
 ---

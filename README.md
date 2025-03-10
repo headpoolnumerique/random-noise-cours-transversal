@@ -27,7 +27,7 @@ Projet final individuel ou en binôme : 60 % de la note.​
 Participation : 10 % de la note (sauf absences justifiées).​   
     
 Les restitutions s'effectueront selon le calendrier suivant :​    
-Après le cours n°5 (entre le 24 mars et le 3 avril) : un sketch p5.js à intégrer dans le futur site du Pool Numérique.​   
+Exercise intermédiaire. À rendre après le cours n°5 (entre le 24 mars et le 3 avril) : Un sketch p5.js démontrant les compétences acquises, à intégrer dans le futur site du Pool Numérique. 
 Pour le cours n°11 (30 juin) : un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser des données ouvertes (open data).   
     
 

@@ -44,7 +44,7 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 - **Tour de table**  
 - Introduction  
 - Workflow complet (p5.js —> export –> Github)  
-  ![SLIDES COURS #1](https://docs.google.com/presentation/d/1DyAjvhiQsO4PSJXCy9wRiSl9hMRUTieXXcwb-Sp_vlI/edit?usp=sharing)
+  [SLIDES COURS #1](https://docs.google.com/presentation/d/1DyAjvhiQsO4PSJXCy9wRiSl9hMRUTieXXcwb-Sp_vlI/edit?usp=sharing)
 
 ### Cours #2 – Bases de programmation  
 
@@ -53,7 +53,7 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 - setup() – draw()
 — Syntaxe
 — random()    
-  ![SKETCH EXEMPLE](https://editor.p5js.org/poolnumerique/sketches/DnVJA_BJZ)
+  [SKETCH EXEMPLE](https://editor.p5js.org/poolnumerique/sketches/DnVJA_BJZ)
 
 ### Cours #3 – Bases de programmation  
 **Théorie :**    

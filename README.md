@@ -52,8 +52,8 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 - Formes de base
 - setup() – draw()
 — Syntaxe
-— random()
-  [SKECTCH EXEMPLE](https://editor.p5js.org/poolnumerique/sketches/DnVJA_BJZ)
+— random()    
+  [SKETCH EXEMPLE](https://editor.p5js.org/poolnumerique/sketches/DnVJA_BJZ)
 
 ### Cours #3 – Bases de programmation  
 **Théorie :**  

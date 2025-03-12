@@ -56,9 +56,9 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
   [SKETCH EXEMPLE](https://editor.p5js.org/poolnumerique/sketches/DnVJA_BJZ)
 
 ### Cours #3 – Bases de programmation  
-**Théorie :**  
-- Différents langages de programmation  
-**Points abordés :**  
+**Théorie :**    
+- Différents langages de programmation     
+**Points abordés :**    
 - Variables  
 - Opérateurs  
 - Conditions  

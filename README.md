@@ -53,20 +53,22 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 - setup() – draw()
 — Syntaxe
 — random()    
-  [SKETCH EXEMPLE](https://editor.p5js.org/poolnumerique/sketches/DnVJA_BJZ)
+  [SKETCH EXEMPLE](https://editor.p5js.org/poolnumerique/sketches/DnVJA_BJZ)    
 
 ### Cours #3 – Bases de programmation  
 **Théorie :**    
 - Différents langages de programmation    
-  [SLIDES COURS #3](https://docs.google.com/presentation/d/16v50H5dUXNeV6YOd9Y36bSW2Lhuz6QdvQ6qiFCd2z00/edit?usp=sharing)
+  [SLIDES COURS #3](https://docs.google.com/presentation/d/16v50H5dUXNeV6YOd9Y36bSW2Lhuz6QdvQ6qiFCd2z00/edit?usp=sharing)    
          
 **Points abordés :**    
 - Variables  
 - Opérateurs  
-- Conditions
+- Conditions    
+  [SKETCH EXEMPLE: CONDITIONEMENT](https://editor.p5js.org/poolnumerique/sketches/ZDaRAv0wV)    
 - Image
-- Typographie  
-
+- Typographie    
+  [SKETCH EXEMPLE: IMAGE–TYPO](https://editor.p5js.org/poolnumerique/sketches/8_jjuMCCs)
+    
 ### Cours #4 – Bases de programmation  
 **Points abordés :**  
 - Tableaux

@@ -63,13 +63,15 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 **Points abordés :**    
 - Variables  
 - Opérateurs  
-- Conditions  
+- Conditions
+- Image
+- Typographie  
 
 ### Cours #4 – Bases de programmation  
 **Points abordés :**  
-- Fonctions, arguments  
-- Image, vidéo, son  
-- ML5.js  
+- Tableaux
+- Boucles for / while
+- Fonctions, arguments
 
 ### Cours #5 – Bases de programmation  
 **Points abordés :**  

@@ -58,7 +58,7 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 ### Cours #3 – Bases de programmation  
 **Théorie :**    
 - Différents langages de programmation    
-  [SLIDES COURS #3](https://docs.google.com/presentation/d/1DyAjvhiQsO4PSJXCy9wRiSl9hMRUTieXXcwb-Sp_vlI/edit?usp=sharing)
+  [SLIDES COURS #3](https://docs.google.com/presentation/d/16v50H5dUXNeV6YOd9Y36bSW2Lhuz6QdvQ6qiFCd2z00/edit?usp=sharing)
          
 **Points abordés :**    
 - Variables  

@@ -64,10 +64,10 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 - Variables  
 - Opérateurs  
 - Conditions    
-  [SKETCH EXEMPLE: CONDITIONEMENT](https://editor.p5js.org/poolnumerique/sketches/ZDaRAv0wV)    
+  [SKETCH EXEMPLE : CONDITIONEMENT](https://editor.p5js.org/poolnumerique/sketches/ZDaRAv0wV)    
 - Image
 - Typographie    
-  [SKETCH EXEMPLE: IMAGE–TYPO](https://editor.p5js.org/poolnumerique/sketches/8_jjuMCCs)
+  [SKETCH EXEMPLE : IMAGE–TYPO](https://editor.p5js.org/poolnumerique/sketches/8_jjuMCCs)
     
 ### Cours #4 – Bases de programmation  
 **Points abordés :**  

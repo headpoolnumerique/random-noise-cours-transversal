@@ -72,9 +72,10 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 ### Cours #4 – Bases de programmation  
 **Points abordés :**  
 - Tableaux (Arrays)
-- Boucles for / while    
+- Dictionaires (Objects) et listes (Arrays)    
+  [SKETCH EXEMPLE : LISTES & DICTIONAIRES](https://editor.p5js.org/poolnumerique/sketches/iwChSOQlM)    
+- Boucle for + liste    
   [SKETCH EXEMPLE : FOR-ARRAY](https://editor.p5js.org/poolnumerique/sketches/dFSVIz-m8)    
-- Dictionaires (Objects)
 
 ### Cours #5 – Bases de programmation  
 **Points abordés :**  

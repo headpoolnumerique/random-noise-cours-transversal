@@ -71,13 +71,14 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
     
 ### Cours #4 – Bases de programmation  
 **Points abordés :**  
-- Tableaux
+- Tableaux (Arrays)
 - Boucles for / while
-- Fonctions, arguments
+  [SKETCH EXEMPLE : FOR-ARRAY](https://editor.p5js.org/poolnumerique/sketches/dFSVIz-m8)
+- Dictionaires (Objects)
 
 ### Cours #5 – Bases de programmation  
 **Points abordés :**  
-- Classes, systèmes de particules  
+- Fonctions
 - **Évaluation : Exercice**  
 
 ### Cours #6 – API  

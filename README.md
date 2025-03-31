@@ -22,8 +22,8 @@ Dans la seconde partie du cours, vous explorerez l’intégration de p5.js dans 
 
 Les étudiant·e·x·s seront évalué·e·x·s selon les critères suivants :    
     
-Exercice intermédiaire : 30 % de la note.​     
-Projet final individuel ou en binôme : 60 % de la note.​   
+Exercice intermédiaire : 10 % de la note.​     
+Projet final individuel ou en binôme : 80 % de la note.​   
 Participation : 10 % de la note (sauf absences justifiées).​   
     
 Les restitutions s'effectueront selon le calendrier suivant :​    

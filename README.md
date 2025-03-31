@@ -78,11 +78,12 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
   [SKETCH EXEMPLE : FOR-ARRAY](https://editor.p5js.org/poolnumerique/sketches/dFSVIz-m8)    
 
 ### Cours #5 – Bases de programmation  
-**Points abordés :**  
-— Recap    
+**Points abordés :**    
+- Recap   
 [SLIDES COURS #5](https://docs.google.com/presentation/d/1XW4Lyvyomy7pzuyUvhFU4qqdmCz9hnFw_rOa_Yg-lZQ/edit?usp=sharing)    
 - Fonctions    
-[SKETCH EXEMPLE : FONCTIONS](https://editor.p5js.org/poolnumerique/sketches/mMXpiCsyD)    
+[SKETCH EXEMPLE : FONCTIONS](https://editor.p5js.org/poolnumerique/sketches/mMXpiCsyD)
+     
 - **Évaluation : Exercice**  
 
 ### Cours #6 – API  

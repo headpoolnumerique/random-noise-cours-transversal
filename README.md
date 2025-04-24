@@ -93,7 +93,7 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 ### Cours #7 – HTML – CSS – Text Editor  
 **Points abordés :**  
 - Bases de HTML – CSS  
-- API  
+- API dans p5.js 
 
 ### Cours #8 – HTML – CSS – Github  
 **Points abordés :**  

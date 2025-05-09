@@ -26,7 +26,7 @@ Exercice intermédiaire : 10 % de la note.​
 Projet final individuel ou en binôme : 80 % de la note.​   
 Participation : 10 % de la note (sauf absences justifiées).​   
     
-Les restitutions s'effectueront selon le calendrier suivant :​    
+Les restitutions s'effectueront selon le calendrier suivant :    
     
 **Exercise intermédiaire :**   
 À rendre après le cours n°5 (entre le 24 mars et le 3 avril).    
@@ -51,8 +51,8 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 **Points abordés :**  
 - Formes de base
 - setup() – draw()
-— Syntaxe
-— random()    
+  — Syntaxe
+  — random()    
   [SKETCH EXEMPLE](https://editor.p5js.org/poolnumerique/sketches/DnVJA_BJZ)    
 
 ### Cours #3 – Bases de programmation  
@@ -60,6 +60,7 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 - Différents langages de programmation    
   [SLIDES COURS #3](https://docs.google.com/presentation/d/16v50H5dUXNeV6YOd9Y36bSW2Lhuz6QdvQ6qiFCd2z00/edit?usp=sharing)    
          
+
 **Points abordés :**    
 - Variables  
 - Opérateurs  
@@ -68,7 +69,7 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 - Image
 - Typographie    
   [SKETCH EXEMPLE : IMAGE–TYPO](https://editor.p5js.org/poolnumerique/sketches/8_jjuMCCs)
-    
+  
 ### Cours #4 – Bases de programmation  
 **Points abordés :**  
 - Tableaux (Arrays)
@@ -82,8 +83,8 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 - Recap   
 [SLIDES COURS #5](https://docs.google.com/presentation/d/1XW4Lyvyomy7pzuyUvhFU4qqdmCz9hnFw_rOa_Yg-lZQ/edit?usp=sharing)
 - Fonctions    
-[SKETCH EXEMPLE : FONCTIONS](https://editor.p5js.org/poolnumerique/sketches/mMXpiCsyD)
-     
+  [SKETCH EXEMPLE : FONCTIONS](https://editor.p5js.org/poolnumerique/sketches/mMXpiCsyD)
+  
 - **Évaluation : Exercice**  
 
 ### Cours #6 – API  
@@ -92,7 +93,8 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 
 ### Cours #7 – HTML – CSS – Text Editor  
 **Points abordés :**  
-- Bases de HTML – CSS  
+- Bases de HTML – CSS 
+- Introduction à Github
 - API dans p5.js 
 
 ### Cours #8 – HTML – CSS – Github  

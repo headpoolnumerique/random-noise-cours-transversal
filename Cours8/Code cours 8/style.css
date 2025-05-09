@@ -1,0 +1,53 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+nav{
+  position: fixed;
+  /* Make stuffs on top */
+  z-index: 100;
+  /* Align stuff */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav div {
+  width: 30vw;
+}
+
+nav div a {
+  font-family: arial black;
+  color: red;
+  text-transform: uppercase;
+  font-size: 3vw;
+}
+
+img {
+  width: 50vw;
+  position: absolute;
+  opacity: 0.4;
+  filter:brightness(3);
+  animation: nomAnim 10s infinite;
+}
+
+
+
+@keyframes nomAnim {
+  0% {
+      transform: translate(0);
+  }
+  45% {
+      transform: translate(10px, -10px);
+  }
+  83% {
+      transform: translate(50px, 100px);
+  }
+  to {
+      transform: translate(0);
+  }
+}

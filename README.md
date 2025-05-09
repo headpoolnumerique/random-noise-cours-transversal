@@ -96,6 +96,7 @@ Un mini site web, réalisé en solo ou en binôme, avec la contrainte d'utiliser
 - Bases de HTML – CSS 
 - Introduction à Github
 - API dans p5.js 
+ [MATÉRIEL ABORDÉ](https://github.com/headpoolnumerique/random-noise-cours-transversal/tree/main/Cours7)
 
 ### Cours #8 – HTML – CSS – Github  
 **Points abordés :**  
